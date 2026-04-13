@@ -1,3 +1,4 @@
+//comentario para probar el commit
 package soda.api.entity;
 import jakarta.persistence.*;
 import lombok.*;
