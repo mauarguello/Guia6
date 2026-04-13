@@ -1,3 +1,4 @@
+//comentario para un segundo commit
 package soda.api.entity;
 import jakarta.persistence.*;
 import lombok.*;
